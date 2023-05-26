@@ -1,5 +1,5 @@
 # Improving-the-Expected-Goals-xG-Model
-Expected Goals: The most popular football analytics metric. 
+Expected Goals: The most popular football analytics metric that models the chances of goal from a shot/header taken.
 
 Expected Goals: The most popular football analytics metric, and by far one of the most essential one, as the intent of all other metrics of Valuing Estimated Probabilities for On Ball Actions, eXpected Threats, etc is to result in quality creation of chances, and shots that drives the probability of shot conversion at goal higher - A probabilistic classification problem.
 
